@@ -1,0 +1,1 @@
+# DijitalG-r-nt-lemeTemelleri_G-r-nt-OkumaveRenkUzaylar-
