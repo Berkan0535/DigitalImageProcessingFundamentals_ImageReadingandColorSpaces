@@ -1,10 +1,5 @@
-Elbette! İşte **bu dosyaya uygun bir README.md** örneği (Jupyter Notebook için hazırlanmış, eğitim veya proje formatına uygun şekilde):
-
----
-
-# 🖼️ Dijital Görüntü İşleme – Hafta 2
-
-### 📘 OpenCV ile Görüntü Okuma ve Temel Kanal Yapısı
+### 📘README
+OpenCV ile Görüntü Okuma ve Temel Kanal Yapısı
 
 Bu dosya, dijital görüntü işleme dersinin ikinci haftasında ele alınan **görüntü okuma, renk kanalları ve piksel temsili** konularını içermektedir.
 Python ve OpenCV kütüphanesi kullanılarak, dijital bir görüntünün bilgisayar ortamında nasıl temsil edildiği adım adım açıklanmıştır.
@@ -70,6 +65,3 @@ Python ve OpenCV kütüphanesi kullanılarak, dijital bir görüntünün bilgisa
 
 Bu çalışmanın amacı, dijital görüntülerin bilgisayar ortamında nasıl temsil edildiğini, renkli ve gri seviye görüntüler arasındaki farkı anlamak ve **OpenCV kütüphanesi ile temel görüntü çözümleme temellerini öğrenmektir.**
 
----
-
-İstersen bu README’ye örnek çıktı görselleri veya “Sonuç” bölümü de ekleyebilirim (örneğin bir RGB ve grayscale görüntü örneği açıklamasıyla). Ekleyeyim mi?
